@@ -1,0 +1,46 @@
+{
+"coord": {
+"lon": 77.3167,
+"lat": 28.4333
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 285.29,
+"feels_like": 284.18,
+"temp_min": 285.29,
+"temp_max": 285.29,
+"pressure": 1013,
+"humidity": 62,
+"sea_level": 1013,
+"grnd_level": 988
+},
+"visibility": 10000,
+"wind": {
+"speed": 2.21,
+"deg": 83,
+"gust": 4.52
+},
+"clouds": {
+"all": 59
+},
+"dt": 1673554139,
+"sys": {
+"type": 1,
+"id": 9165,
+"country": "IN",
+"sunrise": 1673574254,
+"sunset": 1673612021
+},
+"timezone": 19800,
+"id": 1271951,
+"name": "Faridabad",
+"cod": 200
+}
